@@ -19,3 +19,6 @@ Start at -6 and move 4 places to the right. You land on -2, so the sum is -2.
 ## Example 3
 
 `2 + 1 = 3`
+
+## How to Multiply
+$2 \times 2 = 4$
